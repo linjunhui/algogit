@@ -4,6 +4,10 @@
  *  —°‘Ò≈≈–Ú
  */
 using namespace std;
+struct Student {
+    char id[15];
+    int score;
+};
 
 int main()
 {
